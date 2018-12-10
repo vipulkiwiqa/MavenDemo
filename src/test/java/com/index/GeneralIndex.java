@@ -16,7 +16,7 @@ public class GeneralIndex extends SeleniumInit {
 	@Test(priority=0)
 	
 	public void blankfields() {
-        
+          
 		int step=1;
 		
 		Common.logcase("To verify that all mandatory fields get the blank field validation message");
